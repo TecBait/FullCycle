@@ -1,3 +1,4 @@
 *.js @TavioDot
 .github/ @Schibombo
 *.go @Schibombo
+*.html @TavioDot
